@@ -1,9 +1,15 @@
 body {
-    background-image: url("../images/confetti.jpeg");
+  background-image: url('../images/confetti.jpeg');
 }
 h1 {
-    color: Red;
+  color: Red;
 }
 h4 {
-    color: palegreen;
+  color: palegreen;
+}
+
+#timer,
+h2,
+p {
+  color: white;
 }
